@@ -22,7 +22,7 @@
         "voucher",
         "billing"
     ],
-    "author": "Tu Nombre",
+    "author": "Mayhua",
     "license": "MIT",
     "dependencies": {
         "axios": "^1.6.2",
